@@ -2,22 +2,25 @@ header {
   color: white;
   font-family: sans-serif;
   background-color: #409fbf;
-  padding: 50px 100px;
+  margin: 0px;
+  padding: 75px 200px;
 }
 nav {
   color: black;
   font-weight: bold;
   font-family: sans-serif;
   background-color: #e6e6e6;
-  padding: 20px 100px ;
+  margin: 0px;
+  padding: 30px 200px;
 }
 section {
   float: left;
-  width: 55%;
-  padding: 20px 100px;
+  width: 45%;
+  margin: 50px 10px 50px 200px;
+  padding: 0px;
 }
 article {
-  padding: 0px;
+  padding: 0px 20px;
 }
 h4 {
   color: #409fbf;
@@ -30,5 +33,9 @@ h4 {
 aside {
   float: right;
   width: 20%;
-  padding: 20px 100px 0px 0px;
+  margin: 50px 200px 50px 10px;
+  padding: 0px;
+}
+a {
+  color: #409fbf;
 }
