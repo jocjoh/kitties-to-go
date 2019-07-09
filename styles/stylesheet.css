@@ -1,0 +1,34 @@
+header {
+  color: white;
+  font-family: sans-serif;
+  background-color: #409fbf;
+  padding: 50px 100px;
+}
+nav {
+  color: black;
+  font-weight: bold;
+  font-family: sans-serif;
+  background-color: #e6e6e6;
+  padding: 20px 100px ;
+}
+section {
+  float: left;
+  width: 55%;
+  padding: 20px 100px;
+}
+article {
+  padding: 0px;
+}
+h4 {
+  color: #409fbf;
+  font-family: sans-serif;
+}
+.quote {
+  color: #409fbf;
+  font-family: sans-serif;
+}
+aside {
+  float: right;
+  width: 20%;
+  padding: 20px 100px 0px 0px;
+}
