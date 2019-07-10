@@ -23,6 +23,7 @@ section {
   width: 45%;
   margin: 30px 10px 50px 200px;
   padding: 0px;
+  color: #404040;
 }
 h4 {
   color: #409fbf;
@@ -31,7 +32,7 @@ h4 {
 }
 h3 {
   font-family: Arial, Helvetica, sans-serif;
-  font-color: #404040;
+  color: #404040;
 }
 a {
   color: #409fbf;
@@ -45,7 +46,6 @@ a {
 }
 p {
   font-family: Verdana, sans-serif;
-  font-color: #404040;
   font-size: smaller;
   line-height: 1.5;
 }
@@ -54,7 +54,7 @@ aside {
   position: relative;
   font-family: Arial, sans-serif;
   font-size: smaller;
-  font-color: #404040;
+  color: #404040;
   width: 20%;
   margin: 30px 200px 50px 25px;
   padding: 0px;
