@@ -2,7 +2,7 @@ header {
   color: white;
   font-size: 1.5rem;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #409fbf;
+  background-color: #24596B;
   margin: 0px;
   padding: 75px 200px;
   position: relative;
@@ -25,8 +25,8 @@ section {
   padding: 0px;
   color: #404040;
 }
-h4 {
-  color: #409fbf;
+h2 {
+  color: #1F4D5C;
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -35,11 +35,12 @@ h3 {
   color: #404040;
 }
 a {
-  color: #409fbf;
+  color: #1F4D5C;
   text-decoration: none;
+  font-size: larger;
 }
 .quote {
-  color: #409fbf;
+  color: #1F4D5C;
   font-size: larger;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
