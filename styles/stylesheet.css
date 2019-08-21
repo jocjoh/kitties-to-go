@@ -59,6 +59,9 @@ aside {
   margin: 30px 200px 50px 25px;
   padding: 0px;
 }
+i {
+  font-size: larger;
+}
 footer {
   clear: right;
   background-color: #404040;
