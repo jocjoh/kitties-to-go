@@ -16,6 +16,17 @@ nav {
   padding: 30px 200px;
   position: relative;
 }
+
+.hidden {
+  position: relative;
+  left: 10000px;
+  top: auto;
+}
+
+.hidden:focus {
+  left: 0;
+}
+
 section {
   float: left;
   position: relative;
